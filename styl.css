@@ -85,6 +85,7 @@ p {
   overflow: hidden;
   width: 100%;
   height: auto;
+  text-indent: 20px;
 }
 
 nav a {
@@ -180,3 +181,16 @@ li a:hover {
   font-family: cc;
   src: url(/z)
   }
+
+.trojkat{
+  margin:0 auto;
+  width:0px;
+  height:0px;
+  border-left:300px solid #00000000;
+  border-right:300px solid #00000000;
+  border-bottom:40px solid #282B2D;
+}
+
+ul li a {
+  text-align: right;
+}
